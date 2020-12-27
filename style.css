@@ -1,0 +1,39 @@
+body {
+    background-color: #c4c6b9;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+.title {
+    color: #161669;
+    text-align: right;
+    font-weight: 900;
+    letter-spacing: 50px;
+}
+
+.h1 {
+    clear: both;
+    background-color: #5d6336;
+    color: white;
+}
+
+.strong {
+    font-style: oblique;
+}
+
+img.img_maria {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+p.croce {
+    text-align: center;
+}
+
+img.img_novella {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
